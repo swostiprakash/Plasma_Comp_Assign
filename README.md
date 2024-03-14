@@ -1,1 +1,1 @@
-# Plasma_Comp_Assign
+# Plasma and Magnetohydrodynamics Computational Assignment
